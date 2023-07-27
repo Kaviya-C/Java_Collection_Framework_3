@@ -61,25 +61,7 @@ public class HashMapTOArrayList {
 	{
 		System.out.println(e);
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 	}
 
